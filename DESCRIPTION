@@ -1,0 +1,11 @@
+Package: mcpstats
+Title: A set of scraping tools for pulling tennis stats from the MCP
+Version: 0.0.0.9000
+Author: Stephanie Kovalchik
+Maintainer: Stephanie Kovalchik <skovalchik@tennis.com.au>
+Description: The package provides Web scraping functions for data from the MCP
+Depends: R (>= 3.4.4), dplyr, rvest
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
